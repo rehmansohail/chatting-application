@@ -1,25 +1,18 @@
 {
-  "name": "chatting-application",
+  "name": "current-project",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "devStart": "nodemon server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rehmansohail/chatting-application.git"
+    "devStart": "nodemon server.js",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rehmansohail/chatting-application/issues"
-  },
-  "homepage": "https://github.com/rehmansohail/chatting-application#readme",
   "dependencies": {
-    "socket.io": "^4.7.2"
+    "socket.io": "^2.5.0"
   },
   "devDependencies": {
-    "nodemon": "^3.0.1"
-  }
+    "nodemon": "^1.19.4"
+  },
+  "description": ""
 }
