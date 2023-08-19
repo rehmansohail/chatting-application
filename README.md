@@ -1,6 +1,6 @@
 # Application Documentation  
 ## Introduction  
-Welcome to the documentation for the Real-Time Chat Application built using Node.js and Socket.IO. This application allows users to engage in real-time text-based communication over the internet. The application leverages the power of Node.js for server-side scripting and Socket.IO for enabling seamless real-time communication between clients and the server. Make sure you have node installed in your system.
+Welcome to the documentation for the Real-Time Chat Application built using node.js and socket.io. This application allows users to engage in real-time text-based communication over the internet. The application leverages the power of Node.js for server-side scripting and socket.io for enabling seamless real-time communication between clients and the server. Make sure you have node installed in your system.
 ## Table of Contents  
 1. Features
 2. Installation
